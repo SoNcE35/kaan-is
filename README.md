@@ -1,2 +1,2 @@
 # kaan-is
-# kaan-is
+Bu benim ilk uygulamam.
